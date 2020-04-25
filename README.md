@@ -6,10 +6,21 @@
 
 <p align="center">
 
-  [![License](https://img.shields.io/github/license/wesleyfeitosa/gostack-gobarber?style=flat-square)](LICENSE)
-  [![Issues](https://img.shields.io/github/issues/wesleyfeitosa/gostack-gobarber?style=flat-square)](https://github.com/wesleyfeitosa/gostack-gobarber/issues)
-  [![Stars](https://img.shields.io/github/stars/wesleyfeitosa/gostack-gobarber?style=flat-square)](https://github.com/wesleyfeitosa/gostack-gobarber/stargazers)
-  [![GitHub top language](https://img.shields.io/github/languages/top/wesleyfeitosa/gostack-gobarber?style=flat-square)]()
+  <a href="LICENSE">
+    <img alt="License" src="https://img.shields.io/github/license/wesleyfeitosa/gostack-gobarber?style=flat-square" />
+  </a>
+
+  <a href="https://github.com/wesleyfeitosa/gostack-gobarber/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/wesleyfeitosa/gostack-gobarber?style=flat-square" />
+  </a>
+
+  <a href="https://github.com/wesleyfeitosa/gostack-gobarber/stargazers">
+    <img alt="Stars" src="https://img.shields.io/github/stars/wesleyfeitosa/gostack-gobarber?style=flat-square" />
+  </a>
+
+  <a href="#">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/wesleyfeitosa/gostack-gobarber?style=flat-square" />
+  </a>
 
 </p>
 

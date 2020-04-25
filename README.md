@@ -1,8 +1,8 @@
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
 
-<h2 align="center">
+<h1 align="center">
   GoBarber
-</h2>
+</h1>
 
 <p align="center">
 

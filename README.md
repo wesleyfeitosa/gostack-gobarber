@@ -7,9 +7,9 @@
 <p align="center">
 
   [![License](https://img.shields.io/github/license/wesleyfeitosa/gostack-gobarber?style=flat-square)](LICENSE)
-  ![Issues](https://img.shields.io/github/issues/wesleyfeitosa/gostack-gobarber?style=flat-square)
-  ![Stars](https://img.shields.io/github/stars/wesleyfeitosa/gostack-gobarber?style=flat-square)
-  ![GitHub top language](https://img.shields.io/github/languages/top/wesleyfeitosa/gostack-gobarber?style=flat-square)
+  [![Issues](https://img.shields.io/github/issues/wesleyfeitosa/gostack-gobarber?style=flat-square)](https://github.com/wesleyfeitosa/gostack-gobarber/issues)
+  [![Stars](https://img.shields.io/github/stars/wesleyfeitosa/gostack-gobarber?style=flat-square)](https://github.com/wesleyfeitosa/gostack-gobarber/stargazers)
+  [![GitHub top language](https://img.shields.io/github/languages/top/wesleyfeitosa/gostack-gobarber?style=flat-square)]()
 
 </p>
 

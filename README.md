@@ -6,19 +6,19 @@
 
 <p align="center">
 
-  <a href="LICENSE">
+  <a href="LICENSE" style="text-decoration: none">
     <img alt="License" src="https://img.shields.io/github/license/wesleyfeitosa/gostack-gobarber?style=flat-square" />
   </a>
 
-  <a href="https://github.com/wesleyfeitosa/gostack-gobarber/issues">
+  <a href="https://github.com/wesleyfeitosa/gostack-gobarber/issues" style="text-decoration: none">
     <img alt="Issues" src="https://img.shields.io/github/issues/wesleyfeitosa/gostack-gobarber?style=flat-square" />
   </a>
 
-  <a href="https://github.com/wesleyfeitosa/gostack-gobarber/stargazers">
+  <a href="https://github.com/wesleyfeitosa/gostack-gobarber/stargazers" style="text-decoration: none">
     <img alt="Stars" src="https://img.shields.io/github/stars/wesleyfeitosa/gostack-gobarber?style=flat-square" />
   </a>
 
-  <a href="#">
+  <a href="#" style="text-decoration: none">
     <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/wesleyfeitosa/gostack-gobarber?style=flat-square" />
   </a>
 

@@ -1,4 +1,4 @@
-<img alt="GoStack" src="frontend/src/assets/gobarberLogo.png" />
+<img alt="GoStack" src="web/src/assets/gobarberLogo.png" />
 
 <p align="center">
 

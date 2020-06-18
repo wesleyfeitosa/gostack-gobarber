@@ -34,7 +34,7 @@
     "@typescript-eslint/interface-name-prefix": ["error", {"prefixWithI": "always"}],
     "import/extensions": [
       "error",
-      "ingnorePackages",
+      "ignorePackages",
       {
         "ts": "never"
       }
